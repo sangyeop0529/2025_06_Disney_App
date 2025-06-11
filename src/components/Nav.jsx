@@ -36,8 +36,8 @@ const NavWrapper = styled.nav`
   height: 70px;
   background-color: ${(props) => (props.$show ? "#090b13" : "transparent")};
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
   padding: 0 36px;
   letter-spacing: 16px;
   z-index: 3;
